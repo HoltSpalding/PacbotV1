@@ -1,0 +1,5 @@
+<launch>
+    <node name="localserver" pkg="tftest" type="server.sh" output="screen" />
+   <!-- <node name="gamestate" pkg="tftest" type="pacbotCommsModule.py" output="screen"/>
+    <node name="brain" pkg="tftest" type="brain.py" output="screen"/> -->
+</launch>
