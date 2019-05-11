@@ -1,2 +1,0 @@
-flame_detection:navs:tftest:trin_base
--DCATKIN_DEVEL_PREFIX=/home/ubuntu/Documents/trinity_ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Documents/trinity_ros_ws/install -G Unix Makefiles

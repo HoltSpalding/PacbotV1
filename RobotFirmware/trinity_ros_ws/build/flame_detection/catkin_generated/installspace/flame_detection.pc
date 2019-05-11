@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/Documents/trinity_ros_ws/install
-
-Name: flame_detection
-Description: Description of flame_detection
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/ubuntu/Documents/trinity_ros_ws/install/lib 
-Requires: 

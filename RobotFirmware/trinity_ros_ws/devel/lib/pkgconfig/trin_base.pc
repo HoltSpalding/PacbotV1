@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/Documents/trinity_ros_ws/devel
-
-Name: trin_base
-Description: Description of trin_base
-Version: 0.0.0
-Cflags: -I/home/ubuntu/Documents/trinity_ros_ws/src/trin_base/include
-Libs: -L/home/ubuntu/Documents/trinity_ros_ws/devel/lib 
-Requires: controller_manager diff_drive_controller hardware_interface roscpp std_msgs serial
